@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hola, soy Alejo Hernández Ortiz
 
-<!--
-**AlejoHernandezProjects/AlejoHernandezProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Matemáticas Aplicadas en la Universidad Metropolitana de Caracas, construyendo
+un perfil en **ciencia de datos aplicada al sector financiero**. Trabajo en la intersección
+entre modelado cuantitativo, análisis financiero e ingeniería de datos.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Áreas de interés:** modelado de riesgo, series de tiempo, pipelines de datos financieros
+
+---
+
+### Herramientas
+
+**Análisis y modelado**
+`Python` `pandas` `NumPy` `scikit-learn` `statsmodels`
+
+**Datos y BI**
+`SQL` `Power BI (DAX, Power Query)` `Excel avanzado` `APIs REST`
+
+**Software**
+`Java` `JavaScript` `Git` `GitHub`
+
+---
+
+### Proyectos destacados
+
+| Proyecto | Qué resuelve | Herramientas |
+|---|---|---|
+| [<modelo-credit-scoring>](<url>) | <Una línea: pregunta de negocio y resultado> | Python, scikit-learn |
+| [<proyeccion-macro-ve>](<url>) | <Una línea: pregunta de negocio y resultado> | Python, statsmodels |
+| [<pipeline-api-dashboard>](<url>) | <Una línea: pregunta de negocio y resultado> | Python, Power BI |
+
+---
+
+### Aprendiendo ahora
+
+- SQL avanzado: funciones de ventana y optimización de consultas
+- Riesgo cuantitativo: credit scoring y valor en riesgo
+- Inglés (meta: nivel B2)
+
+---
+
+### Contacto
+
+[LinkedIn](<tu-url-de-linkedin>) · <tu-correo-profesional> · Caracas, Venezuela
